@@ -1,5 +1,5 @@
-# Dev-todo
-Devtown project mern todo list
+# Todo
+Project mern todo list
 ![Dev-SS](https://user-images.githubusercontent.com/106979298/205710775-6332d555-161f-43a6-90ea-438d62ce93c4.png)
 
 You can see a screen recording of the working app from this link: http://sc.com.ly/show/4ef98038-9344-4185-8bc8-09cef91b2b09
